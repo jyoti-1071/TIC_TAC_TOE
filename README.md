@@ -1,4 +1,2 @@
-# TIC_TAC_TOE
-Tic-tac-toe Game
-It is a simple game that we play in our day today life.
- 
+# TIC_TAC_TOE Game
+Tic-Tac-Toe is a simple and fun game for 2 players, X and O. It is played on a 3x3 grid. Each player's goal is to make 3 in a row. Typically, X starts first, but in Gametable's Tabletop Tic Tac Toe, Player 1 starts first on the first game and Player 2 starts first on the next game. It is also called Noughts and Crosses.
